@@ -5,8 +5,8 @@
 </p>
   
 Codepen Link: https://codepen.io/ricardoolivaalonso/pen/mdPzrpe  
-Design by: Jarlan Perez
-Original image: https://www.artstation.com/artwork/VdBllN
+Design by: Jarlan Perez <br>
+Original image: https://www.artstation.com/artwork/VdBllN <br>
 
 
 <p align="center">
