@@ -4,7 +4,9 @@
   
 </p>
   
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+Codepen Link: https://codepen.io/ricardoolivaalonso/pen/mdPzrpe  
+Design by: Jarlan Perez
+Original image: https://www.artstation.com/artwork/VdBllN
 
 My website/Portfolio: 
 <p align="center">
