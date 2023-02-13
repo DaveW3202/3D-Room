@@ -8,6 +8,8 @@ Codepen Link: https://codepen.io/ricardoolivaalonso/pen/mdPzrpe
 Design by: Jarlan Perez <br>
 Original image: https://www.artstation.com/artwork/VdBllN <br>
 
+<br>
+
 
 <p align="center">
  <a href=""><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
